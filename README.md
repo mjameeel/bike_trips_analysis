@@ -39,7 +39,7 @@ The analysis were carried out by the following procedures:
 
 ## Visualizations
 
-![Plot of Average Trip Duration by Usertype](Average_trip_duration.jpg)
+![Plot of Average Trip Duration by Usertype](Average_tripduration.jpg)
 
 ![Plot of Number of Trips by Usertype](num_ride.jpg)
 
